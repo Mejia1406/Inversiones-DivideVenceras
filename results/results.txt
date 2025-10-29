@@ -1,0 +1,4 @@
+n=5  inv=5  t_dyv_ms=0.015  t_fb_ms=0.002
+n=5  inv=0  t_dyv_ms=0.017  t_fb_ms=0.001
+n=5  inv=10  t_dyv_ms=0.003  t_fb_ms=0.001
+n=200  inv=19900  t_dyv_ms=0.190  t_fb_ms=1.595
